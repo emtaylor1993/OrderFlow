@@ -1,0 +1,22 @@
+{
+  "idempotencyKey": "b7fd4a2e-37d6-4ef3-9a0a-991f3e3a0f3e",
+  "order": {
+    "referenceId": "web-cart-19283",
+    "customer": {
+      "customerId": "cust_12345"
+    },
+    "lineItems": [
+      {
+        "name": "Caffè Latte",
+        "quantity": "2",
+        "basePriceMoney": { "amount": 525, "currency": "USD" }
+      },
+      {
+        "name": "Blueberry Muffin",
+        "quantity": "1",
+        "basePriceMoney": { "amount": 375, "currency": "USD" }
+      }
+    ],
+    "note": "Leave at front desk"
+  }
+}

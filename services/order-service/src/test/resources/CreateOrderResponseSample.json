@@ -1,0 +1,30 @@
+{
+  "order": {
+    "id": "9f2c7e38-2f6a-4b91-bd3a-3b7d3d2c7af1",
+    "referenceId": "web-cart-19283",
+    "state": "PENDING",
+    "createdAt": "2026-02-19T03:22:10Z",
+    "updatedAt": "2026-02-19T03:22:10Z",
+    "lineItems": [
+      {
+        "uid": "li_01",
+        "name": "Caffè Latte",
+        "quantity": "2",
+        "basePriceMoney": { "amount": 525, "currency": "USD" },
+        "totalMoney": { "amount": 1050, "currency": "USD" }
+      },
+      {
+        "uid": "li_02",
+        "name": "Blueberry Muffin",
+        "quantity": "1",
+        "basePriceMoney": { "amount": 375, "currency": "USD" },
+        "totalMoney": { "amount": 375, "currency": "USD" }
+      }
+    ],
+    "subtotalMoney": { "amount": 1425, "currency": "USD" },
+    "totalTaxMoney": { "amount": 0, "currency": "USD" },
+    "totalDiscountMoney": { "amount": 0, "currency": "USD" },
+    "totalMoney": { "amount": 1425, "currency": "USD" },
+    "note": "Leave at front desk"
+  }
+}

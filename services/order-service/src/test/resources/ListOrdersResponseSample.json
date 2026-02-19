@@ -1,0 +1,10 @@
+{
+  "orders": [
+    {
+      "id": "9f2c7e38-2f6a-4b91-bd3a-3b7d3d2c7af1",
+      "state": "PENDING",
+      "createdAt": "2026-02-19T03:22:10Z",
+      "totalMoney": { "amount": 1425, "currency": "USD" }
+    }
+  ]
+}
