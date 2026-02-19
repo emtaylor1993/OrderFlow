@@ -1,4 +1,4 @@
-package com.orderflow.order_service;
+package com.orderflow.orderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
